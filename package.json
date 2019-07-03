@@ -1,0 +1,23 @@
+{
+  "name": "bitgo-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andy92Pac/bitgo-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andy92Pac/bitgo-challenge/issues"
+  },
+  "homepage": "https://github.com/Andy92Pac/bitgo-challenge#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "stellar-sdk": "^1.0.5"
+  }
+}
