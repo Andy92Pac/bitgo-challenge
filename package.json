@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Andy92Pac/bitgo-challenge#readme",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "stellar-sdk": "^1.0.5"
+    "stellar-sdk": "^8.2.3"
   }
 }
